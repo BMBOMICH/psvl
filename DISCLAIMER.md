@@ -3,8 +3,8 @@
 This license template is provided "as-is" for informational and
 educational purposes only.
 
-The author of this template (Elxan Hüseynov) is a software developer,
-NOT a licensed attorney. This document has NOT been reviewed, approved,
+The author of this template (Elxan Hüseynov) is NOT a licensed
+attorney. This document has NOT been reviewed, approved,
 or certified by any legal professional, bar association, or regulatory
 body.
 
