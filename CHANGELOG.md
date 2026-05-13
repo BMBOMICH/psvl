@@ -21,5 +21,6 @@ will be documented in this file.
 - AI/ML training prohibitions
 - Government and military use restrictions
 - Full side-channel attack prohibitions
+- Exotic & advanced prohibitions
 - Platform integrity protections
 - COPPA and children's data protection
