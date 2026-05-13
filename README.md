@@ -63,6 +63,8 @@ visibility.
 | Indemnification | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | Confidentiality | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | Data breach notification | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Side-channel attack bans | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Exotic threat prohibitions | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 
 ---
 
