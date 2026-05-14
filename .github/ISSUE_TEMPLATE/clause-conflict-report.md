@@ -1,7 +1,7 @@
 ---
 name: Clause Conflict Report
 about: Report a conflict or contradiction between two clauses
-title: "[Conflict]"
+title: "[Clause Conflict]"
 labels: ''
 assignees: BMBOMICH
 
