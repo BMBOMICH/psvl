@@ -197,6 +197,8 @@ Found a legal gap? Have a suggestion? Want to add a clause?
 Open an issue or submit a Pull Request. All contributions to this
 template repository are welcome.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
+
 ---
 
 ## License for This Repository
