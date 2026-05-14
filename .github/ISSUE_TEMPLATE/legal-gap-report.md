@@ -2,7 +2,7 @@
 name: Legal Gap Report
 about: Report a missing protection or legal loophole in PSVL
 title: "[Legal Gap]"
-labels: ''
+labels: legal-gap
 assignees: BMBOMICH
 
 ---

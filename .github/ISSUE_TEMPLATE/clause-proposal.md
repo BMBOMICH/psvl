@@ -2,7 +2,7 @@
 name: Clause Proposal
 about: Propose a new clause or section for PSVL
 title: "[Clause Proposal]"
-labels: ''
+labels: clause-proposal
 assignees: BMBOMICH
 
 ---
