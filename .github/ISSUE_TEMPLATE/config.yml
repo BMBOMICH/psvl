@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Ask a Question about PSVL
+    url: https://github.com/BMBOMICH/PSVL/discussions/categories/q-a
+    about: Ask questions about PSVL clauses and how to apply them
+  - name: 💡 Share a Clause Idea
+    url: https://github.com/BMBOMICH/PSVL/discussions/categories/clause-ideas
+    about: Suggest new clauses or improvements before filing a formal proposal
+  - name: 🗣️ General Discussion
+    url: https://github.com/BMBOMICH/PSVL/discussions/categories/general
+    about: General discussion about source-visible licensing
