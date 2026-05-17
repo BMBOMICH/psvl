@@ -3,7 +3,7 @@ description: >-
   The most comprehensive source-visible license ever written.
   276 clauses. Built for solo developers and indie teams
   who want to show their code without giving it away.
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: true
 author: Elxan Hüseynov
 lang: en
