@@ -17,8 +17,9 @@ timezone: UTC
 repository: BMBOMICH/PSVL
 github_username: BMBOMICH
 
-google_site_verification: bX4_Ne4DO91_SLSfGuwLCBAvBAFrhqxzqOMHw1_AH-8
-bing_site_verification: EA9FF2283664FE55662D2CBEE1565E23
+webmaster_verifications:
+  google: bX4_Ne4DO91_SLSfGuwLCBAvBAFrhqxzqOMHw1_AH-8
+  bing: EA9FF2283664FE55662D2CBEE1565E23
 
 social:
   name: Elxan Hüseynov
