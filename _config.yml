@@ -3,7 +3,47 @@ description: >-
   The most comprehensive source-visible license ever written.
   276 clauses. Built for solo developers and indie teams
   who want to show their code without giving it away.
+url: https://bmbomich.github.io
+baseurl: /PSVL
 theme: jekyll-theme-cayman
 show_downloads: true
 author: Elxan Hüseynov
 lang: en
+encoding: utf-8
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+timezone: UTC
+repository: BMBOMICH/PSVL
+github_username: BMBOMICH
+
+google_site_verification: bX4_Ne4DO91_SLSfGuwLCBAvBAFrhqxzqOMHw1_AH-8
+bing_site_verification: EA9FF2283664FE55662D2CBEE1565E23
+
+social:
+  name: Elxan Hüseynov
+  links:
+    - https://github.com/BMBOMICH
+
+kramdown:
+  input: GFM
+  auto_ids: true
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-github-metadata
+  - jekyll-include-cache
