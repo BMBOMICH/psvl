@@ -40,6 +40,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-optional-front-matter
 
 whitelist:
   - jekyll-seo-tag
@@ -48,3 +49,4 @@ whitelist:
   - jekyll-titles-from-headings
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-optional-front-matter
