@@ -33,6 +33,9 @@ kramdown:
 sass:
   style: compressed
 
+include:
+  - CONTRIBUTING.md
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
