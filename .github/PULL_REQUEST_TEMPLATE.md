@@ -8,6 +8,8 @@
 (Explain the real-world threat or use case it addresses)
 
 ## Checklist
+<!-- Check all boxes before submitting by replacing [ ] with [x] -->
+
 - [ ] I am at least 18 years old
 - [ ] This is my own original work
 - [ ] I understand my contribution permanently transfers to the Author under Section 5.2
