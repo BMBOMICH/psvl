@@ -1,13 +1,13 @@
 # PSVL — Proprietary Source-Visible License
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
-![Clauses](https://img.shields.io/badge/clauses-276-blueviolet)
+![Clauses](https://img.shields.io/badge/clauses-276+-blueviolet)
 ![Type](https://img.shields.io/badge/type-source--visible-orange)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 
 **The most comprehensive source-visible license ever written.**
 
-276 clauses. 9 sections. Built for solo developers and indie teams
+276+ clauses. 9 sections. Built for solo developers and indie teams
 who want to show their code without giving it away.
 
 📄 **[Read the full license text — PSVL-1.0.txt](PSVL-1.0.txt)**
@@ -39,7 +39,13 @@ developers who want to:
 | Indie hackers | Show your code without losing control |
 | Startups (pre-funding) | Let investors see code under protection |
 | Security-conscious projects | Enable auditing without giving away IP |
-| Dating / social apps | Specific protections for user safety |
+| Dating / social apps | User safety and anti-exploitation clauses |
+| Fintech / payment apps | Financial data, fraud, and money laundering prohibitions |
+| Health / wellness apps | Health data harvesting prohibition (Section 4.7.15) |
+| AI-powered tools | Explicit ban on training AI on your own codebase |
+| Marketplace / e-commerce | Payment fraud, purchase interception, and data resale prohibitions |
+| Communication / messaging apps | Message content, privacy, and confidentiality protections |
+| Games / interactive apps | Anti-clone and competing product protections |
 | Any app with sensitive user data | Privacy and data protection clauses |
 
 ## 🚫 Who is PSVL NOT For?
