@@ -35,7 +35,6 @@ sass:
 
 include:
   - CONTRIBUTING.md
-  - PSVL-1.0.txt
 
 plugins:
   - jekyll-seo-tag
