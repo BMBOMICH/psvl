@@ -59,7 +59,7 @@ developers who want to:
 | | MIT | Apache 2.0 | GPL v3 | BSL 1.1 | Elastic 2.0 | PSVL 1.0 |
 |---|---|---|---|---|---|---|
 | **Type** | Permissive | Permissive | Copyleft | Source-available | Source-available | Source-visible |
-| **Clauses** | ~3 | ~9 | ~17 | ~5 | ~7 | **~437** |
+| **Clauses** | ~3 | ~9 | ~17 | ~5 | ~7 | **~276+** |
 | **Commercial use** | ✅ | ✅ | ✅ | ⏳ | ❌ (competing) | ❌ |
 | **Modification** | ✅ | ✅ | ✅ | ✅ | ✅ | PR only |
 | **AI training ban** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
