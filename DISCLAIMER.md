@@ -1,6 +1,6 @@
 # ⚠️ LEGAL DISCLAIMER
 
-This license template is provided "as-is" for informational and
+This license template is provided "AS IS" for informational and
 educational purposes only.
 
 The author of this template (Elxan Hüseynov) is NOT a licensed
