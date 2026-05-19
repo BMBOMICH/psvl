@@ -14,7 +14,7 @@ or a conflict between sections), please report it privately.
 
 ### How to Report
 
-1. Go to the **Security and quality** tab of this repository
+1. Go to the [**Security and quality**](../../security) tab of this repository
 2. Click **"Report a vulnerability"**
 3. Describe the issue clearly, including the specific clause
    numbers affected
