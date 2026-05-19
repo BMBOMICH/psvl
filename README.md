@@ -73,8 +73,8 @@ developers who want to:
 
 | Audience | Reason |
 |---|---|
-| **Open-source community projects** | Requires contribution at scale |
-| **Public libraries / frameworks** | Intended for use as a public dependency |
+| **Open-source community projects** | No forking or redistribution allowed |
+| **Public libraries / frameworks** | PSVL prohibits others from using your code |
 | **OSI-compatible projects** | PSVL is not OSI-approved |
 
 ---
