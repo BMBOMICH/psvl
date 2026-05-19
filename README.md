@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # PSVL — Proprietary Source-Visible License
 
@@ -274,7 +274,7 @@ license is governed entirely by its own terms.
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ### ⭐ Star This Repo
 
