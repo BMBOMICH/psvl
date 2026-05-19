@@ -1,9 +1,9 @@
 # PSVL — Proprietary Source-Visible License
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Clauses](https://img.shields.io/badge/clauses-276+-blueviolet)
-![Type](https://img.shields.io/badge/type-source--visible-orange)
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
+[![Version](https://img.shields.io/badge/version-1.0-blue)](CHANGELOG.md)
+[![Clauses](https://img.shields.io/badge/clauses-276+-blueviolet)](PSVL-1.0.txt)
+[![Type](https://img.shields.io/badge/type-source--visible-orange)](#-what-is-psvl)
+[![Status](https://img.shields.io/badge/status-stable-brightgreen)](CHANGELOG.md)
 
 **The most comprehensive source-visible license ever written.**
 
@@ -59,7 +59,7 @@ developers who want to:
 | | MIT | Apache 2.0 | GPL v3 | BSL 1.1 | Elastic 2.0 | PSVL 1.0 |
 |---|---|---|---|---|---|---|
 | **Type** | Permissive | Permissive | Copyleft | Source-available | Source-available | Source-visible |
-| **Clauses** | ~3 | ~9 | ~17 | ~5 | ~7 | **~276** |
+| **Clauses** | ~3 | ~9 | ~17 | ~5 | ~7 | **~437** |
 | **Commercial use** | ✅ | ✅ | ✅ | ⏳ | ❌ (competing) | ❌ |
 | **Modification** | ✅ | ✅ | ✅ | ✅ | ✅ | PR only |
 | **AI training ban** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
