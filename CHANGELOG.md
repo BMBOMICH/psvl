@@ -7,8 +7,8 @@ will be documented in this file.
 
 ### Initial Release
 - 9 major sections, 276+ clauses
-- Comprehensive permitted uses framework (129 clauses)
-- Comprehensive prohibited uses framework (147+ clauses)
+- Comprehensive permitted uses framework (120+ clauses)
+- Comprehensive prohibited uses framework (140+ clauses)
 - Full contributor terms with IP assignment
 - Legal infrastructure: governing law, arbitration, severability,
   termination, indemnification, confidentiality
