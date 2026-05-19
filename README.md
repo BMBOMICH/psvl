@@ -1,13 +1,20 @@
 # PSVL — Proprietary Source-Visible License
 
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Clauses](https://img.shields.io/badge/clauses-276-blueviolet)
+![Type](https://img.shields.io/badge/type-source--visible-orange)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+
 **The most comprehensive source-visible license ever written.**
 
 276 clauses. 9 sections. Built for solo developers and indie teams
 who want to show their code without giving it away.
 
+📄 **[Read the full license text — PSVL-1.0.txt](PSVL-1.0.txt)**
+
 ---
 
-## What is PSVL?
+## 📖 What is PSVL?
 
 PSVL is a **proprietary source-visible license** designed for
 developers who want to:
@@ -20,13 +27,11 @@ developers who want to:
 - Allow contributions only via Pull Requests that transfer IP
   to the author
 
-It is **NOT** an open-source license. It does not grant open-source
-freedoms. It is the opposite — maximum protection with maximum
-visibility.
+> **PSVL is NOT an open-source license.** It does not grant
+> open-source freedoms. It is the opposite — maximum legal
+> protection with maximum code visibility.
 
----
-
-## Who is PSVL For?
+## 👥 Who is PSVL For?
 
 | Audience | Why PSVL |
 |---|---|
@@ -37,42 +42,37 @@ visibility.
 | Dating / social apps | Specific protections for user safety |
 | Any app with sensitive user data | Privacy and data protection clauses |
 
----
-
-## Who is PSVL NOT For?
+## 🚫 Who is PSVL NOT For?
 
 - Open-source community projects seeking contributions at scale
 - Libraries or frameworks intended for public use as dependencies
 - Projects that want OSI-approved license compatibility
 
----
-
-## Quick Comparison
+## ⚖️ Quick Comparison
 
 | | MIT | Apache 2.0 | GPL v3 | BSL 1.1 | Elastic 2.0 | PSVL 1.0 |
 |---|---|---|---|---|---|---|
-| Type | Permissive | Permissive | Copyleft | Source-available | Source-available | Source-visible |
-| Clauses | ~3 | ~9 | ~17 | ~5 | ~7 | **~276** |
-| Commercial use | ✅ | ✅ | ✅ | ⏳ | ❌ (competing) | ❌ |
-| Modification | ✅ | ✅ | ✅ | ✅ | ✅ | PR only |
-| AI training ban | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Contributor IP transfer | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Arbitration clause | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Governing law | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Severability | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
-| Indemnification | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Confidentiality | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Data breach notification | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Side-channel attack bans | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Exotic threat prohibitions | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Type** | Permissive | Permissive | Copyleft | Source-available | Source-available | Source-visible |
+| **Clauses** | ~3 | ~9 | ~17 | ~5 | ~7 | **~276** |
+| **Commercial use** | ✅ | ✅ | ✅ | ⏳ | ❌ (competing) | ❌ |
+| **Modification** | ✅ | ✅ | ✅ | ✅ | ✅ | PR only |
+| **AI training ban** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Contributor IP transfer** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Arbitration clause** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Governing law** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Severability** | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| **Indemnification** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Confidentiality** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Data breach notification** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Side-channel attack bans** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Exotic threat prohibitions** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 
----
-
-## How to Use
+## 🚀 How to Use
 
 ### 1. Copy the Template
 
-Download `PSVL-1.0.txt` from this repository.
+Download `PSVL-1.0.txt` from this repository — this is the
+full license text with placeholders ready to fill in.
 
 ### 2. Replace Placeholders
 
@@ -89,6 +89,8 @@ Find and replace the following placeholders with your information:
 
 ### 3. Customize (Optional)
 
+PSVL is designed to be adapted. You can:
+
 - Remove app-specific clauses if not applicable to your project
 - Add industry-specific clauses for your domain
 - Adjust the enterprise insurance minimum if needed
@@ -96,7 +98,8 @@ Find and replace the following placeholders with your information:
 ### 4. Save as LICENSE
 
 Save the completed file as `LICENSE` (no extension) in the root
-of your project repository.
+of your project repository. This is the standard location that
+GitHub, GitLab, and most tools recognize automatically.
 
 ### 5. Reference in README
 
@@ -111,9 +114,7 @@ Include this line in your README or LICENSE header:
 
     Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
 
----
-
-## What Does PSVL Cover?
+## 📋 What Does PSVL Cover?
 
 ### ✅ Permitted Uses (Section 3)
 - Personal non-commercial evaluation
@@ -137,9 +138,9 @@ Include this line in your README or LICENSE header:
 - Competing product creation
 - All known attack vectors (side-channel, hardware, network)
 - Deepfake, bot, and fraud operations
-- And 200+ more specific prohibitions
+- [See Section 4 of PSVL-1.0.txt for the full list of prohibitions](PSVL-1.0.txt)
 
-### ⚖️ Legal Framework (Sections 5-9)
+### 🏛️ Legal Framework (Sections 5–9)
 - Contributor IP assignment with age requirement
 - Governing law and jurisdiction
 - Binding arbitration with class action waiver
@@ -151,9 +152,7 @@ Include this line in your README or LICENSE header:
 - Enterprise insurance requirement
 - Force majeure protection
 
----
-
-## Origin Story
+## 🌍 Origin Story
 
 PSVL was created in May 2026 by Elxan Hüseynov from Baku,
 Azerbaijan. He needed maximum legal protection for a dating app
@@ -177,20 +176,15 @@ The result is the most comprehensive single-file software license
 ever created. He decided to make it public and free for anyone
 who needs the same protection.
 
----
-
 ## ⚠️ Important Disclaimer
 
-**This is NOT legal advice.** The author is not a lawyer. This
-license has not been reviewed by legal counsel. See
-[DISCLAIMER.md](DISCLAIMER.md) for full details.
+> **This is NOT legal advice.** The author is not a lawyer. This
+> license has not been reviewed by legal counsel. Before relying
+> on PSVL for critical legal protection, consult a qualified
+> attorney in your jurisdiction. See [DISCLAIMER.md](DISCLAIMER.md)
+> for full details.
 
-Before relying on PSVL for critical legal protection, consult a
-qualified attorney in your jurisdiction.
-
----
-
-## Contributing
+## 🤝 Contributing
 
 Found a legal gap? Have a suggestion? Want to add a clause?
 
@@ -199,9 +193,7 @@ template repository are welcome.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 
----
-
-## License for This Repository
+## 📄 License for This Repository
 
 This template is made available under the following terms:
 
@@ -226,12 +218,11 @@ template text itself as a reusable document. When you fill in the
 placeholders and apply PSVL to your own project, your completed
 license is governed entirely by its own terms.
 
----
+## ⭐ Star This Repo
 
-## Star This Repo ⭐
+> If PSVL helped protect your project, **star this repo** so other
+> indie developers can find it.
 
-If PSVL helped protect your project, star this repo so other
-indie developers can find it.
 ---
 
 **Built with ❤️ in Baku, Azerbaijan — Drafted with Claude by Anthropic**
