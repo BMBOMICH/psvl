@@ -1,26 +1,32 @@
 # Changelog
 
-All notable changes to the Proprietary Source-Visible License (PSVL)
-will be documented in this file.
+All notable changes to PSVL will be documented in this file.
 
 ## [1.0] — 2026-05-14
 
 ### Initial Release
+
+**Core**
 - 9 major sections, 276+ clauses
-- Comprehensive permitted uses framework (120+ clauses)
-- Comprehensive prohibited uses framework (140+ clauses)
-- Full contributor terms with IP assignment
-- Legal infrastructure: governing law, arbitration, severability,
-  termination, indemnification, confidentiality
+- Table of contents
+- Plain English summary
+
+**Permitted Uses (Section 3)**
+- 120+ clauses covering personal, educational, research,
+  security auditing, and community contribution uses
+
+**Prohibited Uses (Section 4)**
+- 140+ clauses covering commercial use, redistribution,
+  AI/ML training, reverse engineering, government and military
+  use, side-channel and exotic attacks, platform integrity,
+  data harvesting, deepfakes, and COPPA/children's data protection
+
+**Legal Framework (Sections 5–9)**
+- Contributor IP assignment with age requirement
+- Governing law and binding arbitration
+- Severability, termination, and indemnification
+- Confidentiality and data breach notification (48-hour requirement)
 - Export control and sanctions compliance
-- Data breach notification requirements
 - Enterprise insurance requirements
 - Accessibility compliance commitment
-- Plain English summary
-- Table of contents
-- AI/ML training prohibitions
-- Government and military use restrictions
-- Full side-channel attack prohibitions
-- Exotic & advanced prohibitions
-- Platform integrity protections
-- COPPA and children's data protection
+- Force majeure protection
