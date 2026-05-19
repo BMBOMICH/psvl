@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0-blue)](CHANGELOG.md)
 [![Clauses](https://img.shields.io/badge/clauses-276+-blueviolet)](PSVL-1.0.txt)
-[![Type](https://img.shields.io/badge/type-source--visible-orange)](#-what-is-psvl)
+[![Type](https://img.shields.io/badge/type-source--visible-orange)](#-what-is-psvl-)
 [![Status](https://img.shields.io/badge/status-stable-brightgreen)](CHANGELOG.md)
 
 **The most comprehensive source-visible license ever written.**
