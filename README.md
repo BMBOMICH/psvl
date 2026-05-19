@@ -61,7 +61,7 @@ developers who want to:
 | **Dating / social apps** | User safety and anti-exploitation clauses |
 | **Fintech / payment apps** | Financial data, fraud, and money laundering prohibitions |
 | **Health / wellness apps** | Health data harvesting prohibition (Section 4.7.15) |
-| **AI-powered tools** | Explicit ban on training AI on your own codebase |
+| **AI-powered tools** | Prevents others from training AI on your source code |
 | **Marketplace / e-commerce** | Payment fraud, purchase interception, and data resale prohibitions |
 | **Communication / messaging apps** | Message content, privacy, and confidentiality protections |
 | **Games / interactive apps** | Anti-clone and competing product protections |
