@@ -148,7 +148,7 @@ See LICENSE for full terms.
 Include this line in your README.md or LICENSE header:
 
 ```text
-Based on PSVL by Elxan Hüseynov — [https://github.com/BMBOMICH/PSVL](https://github.com/BMBOMICH/PSVL)
+Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
 ```
 
 ---
@@ -261,7 +261,7 @@ You are required to:
 - Credit the original author when using or adapting this template by
   including the following line in your distributed text:
 
-    Based on PSVL by Elxan Hüseynov — [https://github.com/BMBOMICH/PSVL](https://github.com/BMBOMICH/PSVL)
+    Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
 
 You are prohibited from:
 - Claiming authorship of the original PSVL template
