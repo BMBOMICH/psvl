@@ -8,15 +8,16 @@ You are permitted to:
 - Share the original unmodified template with attribution
 
 You are required to:
-- Credit the original author when using or adapting this template:
+- Credit the original author when using or adapting this template by
+  including the following line in your distributed text:
 
     Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
 
 You are prohibited from:
-- Claiming authorship of the original PSVL template
+- Claiming authorship of the original PSVL template framework
 - Using this template text to train AI or machine learning models
-- Removing or obscuring authorship attribution
-- Republishing this template as your own original work
+- Removing or obscuring the required credit attribution line
+- Republishing this template or its direct structural derivatives as your own creation
 
 These terms apply only to the PSVL template text itself as a
 reusable document. When you fill in the placeholders and apply
