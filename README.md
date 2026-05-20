@@ -85,18 +85,18 @@ developers who want to:
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
 | **Type** | Permissive | Permissive | Copyleft | Source-available | Source-available | **Source-visible** |
 | **Clauses** | ~3 | ~9 | ~17 | ~5 | ~7 | **276+** |
-| **Commercial use** | ✅ | ✅ | ✅ | ⏳ | ❌ | **❌** |
+| **Commercial use** | ✅ | ✅ | ✅ | ⏳ | ❌ | ❌ |
 | **Modification** | ✅ | ✅ | ✅ | ✅ | ✅ | **PR only** |
-| **AI training ban** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Contributor IP transfer** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Arbitration clause** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Governing law** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Severability** | ❌ | ❌ | ✅ | ❌ | ❌ | **✅** |
-| **Indemnification** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Confidentiality** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Data breach notification** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Side-channel attack bans** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
-| **Exotic threat prohibitions** | ❌ | ❌ | ❌ | ❌ | ❌ | **✅** |
+| **AI training ban** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Contributor IP transfer** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Arbitration clause** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Governing law** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Severability** | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| **Indemnification** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Confidentiality** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Data breach notification** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Side-channel attack bans** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Exotic threat prohibitions** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 
 ---
 
@@ -145,10 +145,10 @@ See LICENSE for full terms.
 
 ### 6. Credit the Original Author
 
-Include this line in your README or LICENSE header:
+Include this line in your README.md or LICENSE header:
 
 ```text
-Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
+Based on PSVL by Elxan Hüseynov — [https://github.com/BMBOMICH/PSVL](https://github.com/BMBOMICH/PSVL)
 ```
 
 ---
@@ -247,30 +247,37 @@ See [**CONTRIBUTING.md**](CONTRIBUTING.md) for full guidelines.
 
 ## 📄 License for This Repository <a id="license-for-this-repository"></a>
 
-This template is made available under the following terms:
+```text
+PSVL Template License
+Copyright (c) 2026 Elxan Hüseynov (also transliterated as
+Elxan Huseynov). All Rights Reserved.
 
-### ✅ You are permitted to:
+You are permitted to:
 - Copy, use, and adapt this template for your own projects
 - Fill in the placeholders and apply it to any software you own
 - Share the original unmodified template with attribution
 
-### 📌 You are required to:
-Credit the original author when using or adapting this template:
+You are required to:
+- Credit the original author when using or adapting this template by
+  including the following line in your distributed text:
 
-```text
-Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
-```
+    Based on PSVL by Elxan Hüseynov — [https://github.com/BMBOMICH/PSVL](https://github.com/BMBOMICH/PSVL)
 
-### 🚫 You are prohibited from:
-- Claiming you wrote the original PSVL template
+You are prohibited from:
+- Claiming authorship of the original PSVL template
 - Using this template text to train AI or machine learning models
-- Removing or obscuring authorship attribution
-- Republishing this template as your own original work
+- Removing or obscuring the required credit attribution line
+- Republishing this template or its direct structural derivatives as your own creation
 
-This distinction is important: these terms apply only to the PSVL
-template text itself as a reusable document. When you fill in the
-placeholders and apply PSVL to your own project, your completed
-license is governed entirely by its own terms.
+These terms apply only to the PSVL template text itself as a
+reusable document. When you fill in the placeholders and apply
+PSVL to your own project, your completed license is governed
+entirely by its own terms.
+
+THIS TEMPLATE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE USE OF THIS TEMPLATE.
+```
 
 ---
 
