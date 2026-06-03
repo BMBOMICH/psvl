@@ -4,7 +4,7 @@ description: >-
   276+ clauses. Built for solo developers and indie teams
   who want to show their code without giving it away.
 url: https://bmbomich.github.io
-baseurl: /PSVL
+baseurl: /psvl
 theme: jekyll-theme-cayman
 show_downloads: true
 author: Elxan Hüseynov
