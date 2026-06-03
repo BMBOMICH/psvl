@@ -16,9 +16,19 @@ The source code is made publicly visible exclusively to facilitate community
 evaluation, security auditing, performance research, accessibility improvement,
 localization, and official contributions back to this project.
 
-By accessing, cloning, forking, reading, or otherwise interacting with this
-source code or software in any form, you explicitly agree to be bound by all
-terms and conditions set forth in this license.
+By cloning, forking, downloading, deploying, or executing this 
+source code or software, you explicitly agree to be bound by all 
+terms and conditions set forth in this license. Merely viewing or 
+reading this source code on a public hosting platform does not 
+constitute acceptance of this license. Active acquisition or use 
+of the source code is required for this license to take effect.
+
+Automated systems, bots, crawlers, scrapers, and artificial 
+intelligence systems are expressly prohibited from accessing, 
+processing, copying, or training on this source code regardless 
+of whether they can formally accept this license. Any such access 
+constitutes a violation of this license and applicable copyright 
+law.
 
 ================================================================================
                             PLAIN ENGLISH SUMMARY
@@ -190,6 +200,18 @@ for convenience only.
      respect to any Licensee found to be in violation of any provision of
      this license, in accordance with the termination procedures set forth
      in Section 6.3.
+
+2.5  AUTOMATED SYSTEMS PROHIBITION
+     Automated systems, bots, web crawlers, scrapers, spiders, 
+     artificial intelligence models, machine learning systems, 
+     large language models, and any non-human actor are 
+     expressly prohibited from accessing, reading, processing, 
+     copying, indexing, caching, or training on any part of 
+     this Software or its source code. Such systems cannot 
+     legally accept this license and any access by such systems 
+     constitutes unauthorized use and copyright infringement. 
+     This prohibition applies regardless of whether a robots.txt 
+     file is present or honored.
 
 ================================================================================
                           SECTION 3 — PERMITTED USES
@@ -2687,11 +2709,52 @@ permitted under clauses 3.3.1 and 3.3.2.
      are cumulative and in addition to any other rights and remedies
      available at law, in equity, or under any other agreement.
 
-9.7  COUNTERPARTS & ELECTRONIC ACCEPTANCE
-     Acceptance of this license by electronic means — including but not
-     limited to cloning, forking, downloading, or otherwise accessing
-     the Software — shall have the same legal force and effect as a
-     handwritten signature.
+9.7  ACCEPTANCE METHODS
+
+9.7.1  Acceptance of this license occurs when a person or entity
+       performs any of the following active actions:
+       (a) cloning this repository;
+       (b) forking this repository;
+       (c) downloading any files from this repository;
+       (d) deploying or executing this software;
+       (e) submitting a Pull Request or Contribution;
+       (f) checking, clicking, tapping, pressing, swiping,
+           toggling, or otherwise activating any checkbox, button,
+           toggle, slider, link, or interactive element labeled
+           with or containing any of the following phrases:
+           "I agree", "I Agree", "I accept", "I Accept", "Agree",
+           "Accept", "Continue", "Confirm", "OK", "Proceed",
+           "Submit", "Acknowledge", "I understand", "I consent",
+           "Got it", "Yes", "Approve", or any substantially
+           similar phrase presented as acceptance of this license;
+       (g) typing, writing, or entering "I agree", "I accept",
+           "I consent", "agree", "accept", "yes", or any
+           substantially similar phrase in a text field presented
+           as acceptance of this license;
+       (h) scanning a QR code that links to or displays this
+           license;
+       (i) completing a CAPTCHA gate that precedes access to this
+           Software;
+       (j) clicking through an interstitial license page;
+       (k) performing any other affirmative digital or physical
+           action explicitly presented as acceptance of this
+           license in any official deployment, installer, signup
+           flow, download page, onboarding screen, or access gate
+           of this Software.
+
+9.7.2  Merely viewing, reading, or browsing this source code on 
+       a public hosting platform does NOT constitute acceptance 
+       of this license.
+
+9.7.3  Acceptance by any of the methods listed in 9.7.1 shall 
+       have the same legal force and effect as a handwritten 
+       signature.
+
+9.7.4  Automated systems, bots, crawlers, scrapers, AI models, 
+       and machine learning systems cannot legally accept this 
+       license. Any access, processing, copying, or training by 
+       such systems is unauthorized and constitutes copyright 
+       infringement regardless of acceptance.
 
 9.8  INTERPRETATION
      In the event of any ambiguity in the terms of this license, the
