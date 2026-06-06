@@ -1,15 +1,23 @@
 PSVL Template License
-Copyright (c) 2026 Elxan Hüseynov (also transliterated as
-Elxan Huseynov). All Rights Reserved.
+Copyright (c) 2026-present Elxan Hüseynov (also writable as
+Elxan Huseynov). All Rights Reserved, except as expressly
+granted below.
+
+This file governs the PSVL template itself. It does NOT govern
+software you license with PSVL — that is handled entirely by
+your filled-in copy of PSVL.txt.
 
 You are permitted to:
 - Copy, use, and adapt this template for your own projects
 - Fill in the placeholders and apply it to any software you own
 - Share the original unmodified template with attribution
+- Fork or mirror the canonical repository
+- Quote or excerpt the template for review, teaching, or commentary
+- Translate the template (clearly marked as an unofficial translation)
 
 You are required to:
 - Credit the original author when using or adapting this template by
-  adding the following footer at the absolute bottom of your project's LICENSE file:
+  adding the following footer at the bottom of your project's LICENSE file:
 
 ================================================================================
 Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/psvl
@@ -19,13 +27,20 @@ You are prohibited from:
 - Claiming authorship of the original PSVL template
 - Using this template text to train AI or machine learning models
 - Removing or obscuring the required credit attribution line
-- Republishing this template or its direct structural derivatives as your own creation
+- Republishing this template under your own name or brand without credit
 
 These terms apply only to the PSVL template text itself as a
 reusable document. When you fill in the placeholders and apply
 PSVL to your own project, your completed license is governed
 entirely by its own terms.
 
-THIS TEMPLATE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES,
-OR OTHER LIABILITY ARISING FROM THE USE OF THIS TEMPLATE.
+If you breach these terms, your permission to use this template
+ends automatically. Minor or accidental breaches (such as a
+missing attribution footer) may be cured if fixed promptly after
+notice from the author.
+
+THIS TEMPLATE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+AND IS NOT LEGAL ADVICE. IN NO EVENT SHALL THE AUTHOR BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE
+OF THIS TEMPLATE, EXCEPT FOR LIABILITY THAT CANNOT BE EXCLUDED
+UNDER APPLICABLE LAW.
