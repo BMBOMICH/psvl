@@ -1,0 +1,42 @@
+name: Build Jekyll Site
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      - name: Install Jekyll
+        run: |
+          gem install bundler
+          gem install jekyll
+          gem install jekyll-theme-cayman
+          gem install jekyll-seo-tag jekyll-sitemap jekyll-feed
+          gem install jekyll-readme-index jekyll-titles-from-headings
+          gem install jekyll-github-metadata jekyll-include-cache
+          gem install jekyll-optional-front-matter jekyll-relative-links
+          gem install jekyll-redirect-from
+      - name: Build site
+        run: jekyll build --verbose --trace
+        env:
+          JEKYLL_ENV: production
+      - name: Verify build output
+        run: |
+          if [ ! -d "_site" ]; then
+            echo "Jekyll build failed — no _site directory"
+            exit 1
+          fi
+          if [ ! -f "_site/index.html" ]; then
+            echo "Jekyll build failed — no index.html"
+            exit 1
+          fi
+          echo "Jekyll build succeeded."
