@@ -13,7 +13,7 @@ Thank you for using PSVL. Here is where to go for help.
 | Report a clause conflict or legal loophole | [**Open an Issue**](https://github.com/BMBOMICH/psvl/issues/new/choose) |
 | Propose a new clause | [**Open an Issue**](https://github.com/BMBOMICH/psvl/issues/new/choose) |
 | Submit a code or text fix | [**Open a Pull Request**](https://github.com/BMBOMICH/psvl/pulls) |
-| Report a security or legal-loophole issue privately | [**Security advisory**](https://github.com/BMBOMICH/psvl/security/advisories/new) |
+| Report a security or legal-loophole issue privately | [**Report a vulnerability**](https://github.com/BMBOMICH/psvl/security/advisories/new) |
 | Report a Code of Conduct violation | See [**CODE_OF_CONDUCT.md**](CODE_OF_CONDUCT.md) |
 
 ## What PSVL Support Is Not
@@ -28,7 +28,7 @@ The maintainer is a single individual, not a law firm. Please understand:
 
 ## Before You Ask
 
-1. Check the [**README**](README.md) — it covers most common questions.
+1. Check the [**README.md**](README.md) — it covers most common questions.
 2. Search [**existing issues**](https://github.com/BMBOMICH/psvl/issues?q=is%3Aissue).
 3. Search [**existing discussions**](https://github.com/BMBOMICH/psvl/discussions).
 4. Read the relevant section of [**PSVL.txt**](PSVL.txt).
