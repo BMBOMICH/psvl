@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "PSVL — Proprietary Source-Visible License"
+message: "If you reference PSVL in academic or professional work, please cite it as below."
+type: software
+authors:
+  - given-names: Elxan
+    family-names: Hüseynov
+    alias: BMBOMICH
+repository-code: "https://github.com/BMBOMICH/psvl"
+url: "https://bmbomich.github.io/psvl/"
+license-url: "https://github.com/BMBOMICH/psvl/blob/main/LICENSE"
+version: "1.0"
+date-released: "2026-05-14"
+keywords:
+  - software-license
+  - source-available
+  - source-visible
+  - proprietary
+  - license-template
+  - psvl
