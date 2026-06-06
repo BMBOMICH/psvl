@@ -25,7 +25,6 @@ jobs:
             --cache
             --max-cache-age 7d
             --no-progress
-            --exclude-mail
             --exclude-path .github/ISSUE_TEMPLATE
             './**/*.md'
             './**/*.txt'
