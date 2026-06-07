@@ -125,20 +125,20 @@ license's full text for authoritative details.
 
 | | MIT | Apache 2.0 | GPL v3 | BUSL 1.1 | Elastic 2.0 | PSVL 1.0 |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Type** | **Permissive** | **Permissive** | **Copyleft** | **Source-available** | **Source-available** | ***Source-visible*** |
-| **Commercial use** | ✅ | ✅ | ✅ | ⏳ **Time-delayed** | ❌ | ❌ |
-| **Modification** | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ ***PR only*** |
-| **Redistribution** | ✅ | ✅ | ✅ | ✅ | ⚠️ **Limited** | ❌ |
+| **Type** | Permissive | Permissive | Copyleft | Source-available | Source-available | **Source-visible** |
+| **Commercial use** | ✅ | ✅ | ✅ | ⏳ Time-delayed | ❌ | ❌ |
+| **Modification** | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ **PR only** |
+| **Redistribution** | ✅ | ✅ | ✅ | ✅ | ⚠️ Limited | ❌ |
 | **Explicit AI-training stance** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Contributor IP transfer** | ❌ | ⚠️ **CLA-based** | ❌ | ❌ | ❌ | ✅ |
+| **Contributor IP transfer** | ❌ | ⚠️ CLA-based | ❌ | ❌ | ❌ | ✅ |
 | **Arbitration clause** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Governing-law clause** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Severability** | ❌ | ⚠️ **Implied** | ✅ | ❌ | ❌ | ✅ |
+| **Severability** | ❌ | ⚠️ Implied | ✅ | ❌ | ❌ | ✅ |
 | **Indemnification of Author** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Confidentiality** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Data-breach notification** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ ***48-hour*** |
+| **Data-breach notification** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ **48-hour** |
 | **Side-channel attack bans** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Approx. length** | **~165 words** | **~9 sections** | **~17 sections** | **~5 sections** | **~7 sections** | ***9 sections, 460+ clauses*** |
+| **Approximate length** | ~165 words | ~9 sections | ~17 sections | ~5 sections | ~7 sections | **9 sections, 460+ clauses** |
 
 ---
 
