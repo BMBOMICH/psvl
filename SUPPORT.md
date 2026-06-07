@@ -29,7 +29,7 @@ The maintainer is a single individual, not a law firm. Please understand:
 ## Before You Ask
 
 1. Check the [**README.md**](README.md) — it covers most common questions.
-2. Search [**existing issues**](https://github.com/BMBOMICH/psvl/issues?q=is%3Aissue).
+2. Search [**existing issues**](https://github.com/BMBOMICH/psvl/issues).
 3. Search [**existing discussions**](https://github.com/BMBOMICH/psvl/discussions).
 4. Read the relevant section of [**PSVL.txt**](PSVL.txt).
 
