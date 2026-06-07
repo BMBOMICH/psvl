@@ -71,7 +71,7 @@ to this repository:
 
 Accepted contributors are credited in the [**CHANGELOG.md**](CHANGELOG.md).
 Contributors may also reference their accepted contributions on
-personal portfolios, resumes, or LinkedIn (see [**clause 3.6.9 of PSVL**](PSVL.txt)).
+personal portfolios, resumes, or LinkedIn (see [**clause 3.6.9 of PSVL.txt**](PSVL.txt)).
 
 ## Questions
 
