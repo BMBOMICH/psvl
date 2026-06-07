@@ -337,6 +337,6 @@ See [**LICENSE**](LICENSE) for the full text.
 
 **Built with ❤️ in Baku, Azerbaijan — Drafted with Claude by Anthropic**
 
-If PSVL was useful for your project, a ⭐ would help other indie developers find it.
+If PSVL protected your project, a ⭐ would help other indie developers find it.
 
 </div>
