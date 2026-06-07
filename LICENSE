@@ -3,9 +3,11 @@ Copyright (c) 2026-present Elxan Hüseynov (also writable as
 Elxan Huseynov). All Rights Reserved, except as expressly
 granted below.
 
-This file governs the PSVL template itself. It does NOT govern
-software you license with PSVL — that is handled entirely by
-your filled-in copy of PSVL.txt.
+This file governs the PSVL template itself — meaning the file
+`PSVL.txt` in this repository, which is the reusable license
+template. This LICENSE does NOT govern software you license with
+PSVL — that is handled entirely by your filled-in copy of
+`PSVL.txt`.
 
 You are permitted to:
 - Copy, use, and adapt this template for your own projects
@@ -28,6 +30,13 @@ You are prohibited from:
 - Using this template text to train AI or machine learning models
 - Removing or obscuring the required credit attribution line
 - Republishing this template under your own name or brand without credit
+- Copying the verbatim text of this template — in whole, or in
+  substantial part — to create a competing license, framework, or
+  template, regardless of whether you name it PSVL or use a different
+  name. This prohibition covers the specific wording, structure, and
+  expression of the template; it does not prevent anyone from writing
+  an independent license that addresses similar topics in their own
+  original wording.
 
 These terms apply only to the PSVL template text itself as a
 reusable document. When you fill in the placeholders and apply
