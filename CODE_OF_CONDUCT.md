@@ -43,7 +43,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 Tensions can occur between community members even when they are trying their best to collaborate. Not every conflict represents a Code of Conduct violation, and this Code of Conduct reinforces encouraged behaviors and norms that can help avoid conflicts and minimize harm.
 
-When an incident does occur, please report it promptly via the **GitHub "Report a vulnerability"** flow: go to the [**Security tab**](https://github.com/BMBOMICH/psvl/security) and click **"Report a vulnerability"**. Note that this flow is intended for Code of Conduct use as well as security issues; the maintainer will route your report appropriately.
+When an incident does occur, please report it promptly via the **GitHub "Report a vulnerability"** flow: go to the [**Security and quality tab**](https://github.com/BMBOMICH/psvl/security) and click **"Report a vulnerability"**. Note that this flow is intended for Code of Conduct use as well as security issues; the maintainer will route your report appropriately.
 
 If your report concerns the maintainer themselves and you would prefer not to use the channel above, you may post the report publicly in a [**GitHub Discussion**](https://github.com/BMBOMICH/psvl/discussions) — please understand the trade-off in confidentiality.
 
