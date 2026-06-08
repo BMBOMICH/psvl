@@ -1,16 +1,15 @@
-<!-- ────────────────────────────────────────────────────────────────
+<!-- ════════════════════════════════════════════════════════════════
 HOW TO USE THIS TEMPLATE
 
 1. Give your PR a clear title summarizing the change (e.g.,
    "Fix typo in clause 4.5.1" or "Add clause for biometric data resale").
 2. Under each ## heading below, TYPE YOUR ANSWER on the lines
    provided (or directly above the next heading).
-3. Lines wrapped in HTML comment syntax (an angle bracket, exclamation
-   mark, two dashes ... two dashes, angle bracket) are hidden
-   instructions for you; they do NOT appear in the published PR. Leave
-   them as-is or delete them — your choice.
+3. Lines wrapped in HTML comment syntax are hidden instructions for
+   you; they do NOT appear in the published PR. Leave them as-is or
+   delete them, your choice.
 4. Check boxes by replacing [ ] with [x].
-──────────────────────────────────────────────────────────────── -->
+════════════════════════════════════════════════════════════════ -->
 
 ## Type of Change
 
