@@ -335,7 +335,7 @@ See [**LICENSE**](LICENSE) for the full text.
 
 <div align="center" markdown="1">
 
-**Built with ❤️ in Baku, Azerbaijan — Drafted with Claude by Anthropic**
+**Built with ❤️ by Elxan Hüseynov — Drafted with Claude by Anthropic**
 
 If PSVL protected your project, a ⭐ would help other indie developers find it.
 
