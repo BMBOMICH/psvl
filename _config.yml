@@ -60,3 +60,4 @@ defaults:
       path: ""
     values:
       layout: default
+      robots: noai, noimageai
