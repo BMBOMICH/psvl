@@ -51,21 +51,21 @@ User-agent: Kagibot
 Allow: /
 User-agent: MarginaliaSearch
 Allow: /
-User-agent: Sogou
-Allow: /
-User-agent: Sogou web spider
-Allow: /
-User-agent: Exabot
-Allow: /
-User-agent: facebot
-Allow: /
-User-agent: ia_archiver
-Allow: /
-User-agent: archive.org_bot
-Allow: /
 User-agent: Petalbot
 Allow: /
 User-agent: Applebot
+Allow: /
+User-agent: Sogou Pic Spider
+Allow: /
+User-agent: Sogou head spider
+Allow: /
+User-agent: Exabot
+Allow: /
+User-agent: ia_architer
+Allow: /
+User-agent: archive.org_bot
+Allow: /
+User-agent: facebot
 Allow: /
 User-agent: Twitterbot
 Allow: /
@@ -100,6 +100,8 @@ Disallow: /
 User-agent: claude-searchbot
 Disallow: /
 User-agent: Google-Extended
+Disallow: /
+User-agent: Google-CloudVertexBot
 Disallow: /
 User-agent: PerplexityBot
 Disallow: /
@@ -156,6 +158,8 @@ Disallow: /
 User-agent: ImagesiftBot
 Disallow: /
 User-agent: img2dataset
+Disallow: /
+User-agent: FirecrawlAgent
 Disallow: /
 User-agent: SemrushBot
 Disallow: /
