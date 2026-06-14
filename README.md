@@ -257,8 +257,7 @@ See [**SECURITY.md**](SECURITY.md).
 
 ## 🌍 Origin Story
 
-PSVL was created on **May 14, 2026** by **Elxan Hüseynov** in **Baku,
-Azerbaijan**.
+PSVL was created on **May 14, 2026** by **Elxan Hüseynov**.
 
 The motivation was simple: existing licenses did not cover the specific
 combination of needs — letting people see and audit the source code,
